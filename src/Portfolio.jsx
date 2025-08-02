@@ -7,7 +7,7 @@ const Portfolio = () => {
      
       <header className="header">
         <h1>Yalakaturi Someswar Naidu</h1>
-        <br /><br />
+        <br /><hr />
         <nav>
           <a href="#about">About</a>
           <a href="#skills">Skills</a>
